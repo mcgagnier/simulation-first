@@ -1,0 +1,1 @@
+INSERT INTO item ( item_name, price, image_url, bin_id ) VALUES ( $1, $2, $3, $4 );
